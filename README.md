@@ -1,7 +1,8 @@
 # GoBootstrap
-A general golang REST application skeleton to bootstrap a project
-This provides a generic framework for golang repos going forward. 
-Proivides abstraction for 
+
+A general golang REST application skeleton to bootstrap a project.  
+This provides a generic framework for golang repos going forward.  
+Provides abstraction for 
 - Config 
 - logger
 - DB
@@ -9,4 +10,4 @@ Proivides abstraction for
 - http interface
 - unit testing
 
-Uses repository pattern. 
+Uses repository pattern for DB abstraction.
